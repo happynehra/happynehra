@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happynehra&label=Profile%20views&color=0e75b6&style=flat" alt="happynehra" /> </p>
 
-- 👨‍💻 All of my projects are available at [happynehra.com](happynehra.com)
+- 👨‍💻 All of my projects are available at [happynehra.com](https://www.happynehra.com)
 
 - 💬 Ask me about **docker, kubernetes and AWS**
 
