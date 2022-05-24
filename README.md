@@ -1,5 +1,5 @@
 ![image](header.png)
-### Hi there 👋
+
 
 <!--
 **happynehra/happynehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
