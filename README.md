@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [happynehra.com](https://www.happynehra.com)
 
-- 💬 Ask me about **docker, kubernetes and AWS**
+- 💬 Ask me about **Docker, Kubernetes and AWS**
 
 - 📫 How to reach me **happynehra777@gmail.com**
 
