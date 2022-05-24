@@ -30,6 +30,8 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/happynehra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="happynehra" /></a></p><br><br>
 
 
   
