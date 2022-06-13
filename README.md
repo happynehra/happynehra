@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **happynehra777@gmail.com**
 
-- ⚡ Fun fact **When I was younger, I wanted to be a pilot, which led me to later earn my pilot's license.**
+- ⚡ Fun fact **When I was younger, I wanted to be a pilot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
